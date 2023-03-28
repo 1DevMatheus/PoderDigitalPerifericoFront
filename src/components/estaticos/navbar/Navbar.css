@@ -49,6 +49,7 @@
 }
 .css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper{
     z-index: 22;
+    background-color: #00000070 !important;
     padding: 14px;
     margin: 10px;
     display: flex !important;
